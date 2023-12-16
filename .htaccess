@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ /home/u471583809/domains/avbfinancial.com/public_html/$1 [L]
+</IfModule>
